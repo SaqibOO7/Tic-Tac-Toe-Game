@@ -41,3 +41,9 @@ This project is a real-time multiplayer Tic Tac Toe game built using the MERN st
 - **File Handling**: Multer (for profile picture uploads)
   
 This project demonstrates real-time multiplayer functionality, handling various edge cases.
+
+
+
+## Demo
+
+Check out the demo of the project on [YouTube](https://youtu.be/SDRxCHQ-fV0).
